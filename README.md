@@ -14,10 +14,15 @@ earliest full-year period available, and 2022–2025, the most recent complete p
 ## Research Questions
 
 1. How has reported 311 demand concentration by service request category and city division changed
-   between the two periods?
-2. Which high-volume service request categories show different monthly or seasonal patterns?
-3. Which differences can be compared responsibly, and which require caution because of changes in
-   categories, divisions, wards, coverage, or reporting practices?
+   between 2010–2013 and 2022–2025?
+
+2. Which high-volume 311 service request categories show different monthly or seasonal patterns
+   between 2010–2013 and 2022–2025?
+
+3. Which differences between the early and recent periods can be compared responsibly, and which
+   require caution because of changes in categories, divisions, wards, data coverage, or reporting
+   practices?
+   ----
 
 ## Repository Contents
 
