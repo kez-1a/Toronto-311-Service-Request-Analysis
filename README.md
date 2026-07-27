@@ -22,7 +22,7 @@ earliest full-year period available, and 2022–2025, the most recent complete p
 3. Which differences between the early and recent periods can be compared responsibly, and which
    require caution because of changes in categories, divisions, wards, data coverage, or reporting
    practices?
-   ----
+---
 
 ## Repository Contents
 
